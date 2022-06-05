@@ -1,6 +1,6 @@
 import math
 print('---------------------------------------')
-print('Convertidor de unidades/Unity convertor')
+print('Convertidor de unidades/Messures convertor')
 print('---------------------------------------')
 
 idioma = input('Español(1)/English(2)')
