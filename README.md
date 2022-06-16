@@ -1,4 +1,5 @@
-# measures-converter
-this was one of my first python programs, it`s in english and spanish.
+CONVERTIDOR DE MEDIDAS
 
-When you run it, enter the option chosen by some number on the keyboard. Then enter the measure.
+Esta hecho en python y cambia unidades de distancia y peso de sistema imperial a metrico y viceversa 
+
+Se puede elegir si se usa en español o ingles
